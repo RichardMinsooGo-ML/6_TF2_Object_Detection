@@ -1,0 +1,25 @@
+<annotation>
+  <folder>MNIST</folder>
+  <filename>000156.jpg</filename>
+  <source>
+    <database>MNIST database</database>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>214</xmin>
+      <ymin>189</ymin>
+      <xmax>298</xmax>
+      <ymax>273</ymax>
+    </bndbox>
+  </object>
+</annotation>

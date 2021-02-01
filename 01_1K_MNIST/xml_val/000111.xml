@@ -1,0 +1,37 @@
+<annotation>
+  <folder>MNIST</folder>
+  <filename>000111.jpg</filename>
+  <source>
+    <database>MNIST database</database>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>9</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>369</xmin>
+      <ymin>60</ymin>
+      <xmax>391</xmax>
+      <ymax>82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>131</ymin>
+      <xmax>146</xmax>
+      <ymax>215</ymax>
+    </bndbox>
+  </object>
+</annotation>
