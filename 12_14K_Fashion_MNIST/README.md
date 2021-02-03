@@ -11,6 +11,6 @@ https://drive.google.com/drive/folders/1HJS1kWCkLvnTrz6gnNKFtRT2D5LQ9v6R?usp=sha
 
 In this folder, I uploaded the sample of Fashion MNIST + MNIST datasets. Training set size is 13700.
 
-Due to the several file size, please download from my Goggle Drive through below link.
+Due to the several file size, please download from my Google Drive through below link.
 
 https://drive.google.com/drive/folders/1HJS1kWCkLvnTrz6gnNKFtRT2D5LQ9v6R?usp=sharing
