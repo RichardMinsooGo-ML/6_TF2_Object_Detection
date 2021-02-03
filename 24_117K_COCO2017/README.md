@@ -4,6 +4,7 @@
 
 파일의 크기와 개수가 많아서, 필자가 운영하는 Google Drive 를 통하여 다운로드 받으며 된다.
 
+https://drive.google.com/drive/folders/15WdECPIMs57DQvra4Em1NQBWqhvy4lNn?usp=sharing
 
 
 ## EN> 
@@ -12,3 +13,4 @@ In this folder, I uploaded the sample of COCO 2017 datasets. Training set size i
 
 Due to the several file size, please download from my Google Drive through below link.
 
+https://drive.google.com/drive/folders/15WdECPIMs57DQvra4Em1NQBWqhvy4lNn?usp=sharing
