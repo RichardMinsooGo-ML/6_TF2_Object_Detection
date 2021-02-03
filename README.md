@@ -1,20 +1,25 @@
 ## KR>
 
-해당 폴더에서는 1000 개의 Training dataset 을 가지는 Fashion MNIST + MNIST model 이 저장되어져 있다.
+해당 저장소는 객체 감지에 관련된 데이터셋들과 샘플 코드들이 있다.
 
-Option 1: 해당 저장소를 다운로드 하거나, 
+해당 저장소에 있는 폴더의 구조와 동일하게 구성하세요.
 
-Option 2: 아래의 링크를 통하여 내가 운영하는 구글 드라이브를 통하여 다운로드후에 압축을 해제하면 된다.
+Dataset 들의 위치를 가진 파일들 때문에 폴더의 구조가 변경이 되면 에러가 날수 있습니다.
 
-https://drive.google.com/drive/folders/1lw3G9eMIAXnuOFxeCFdTZQSRPYe0-HCV?usp=sharing
+해당 저장소의 파일들은 개발자들이 개발하는 객체 감지용 프로그램을 customizing 하는데 사용하면 유용 합니다.
+
+많은 데이터들이 용량이 크고 파일의 숫자가 대부분은 필자가 운영중인 Google Drive 링크를 통하여 다운로드 받으면 된다.
 
 ## EN>
 
-This folder have "Fashion MNIST" + "MNIST" dataset and training size is 1000.
+This repository have datasets for Object Dedection, and also have sample codes.
 
-Option 1 : You can download this repository
+Please compose with same folder structure like this repositories.
 
-Option 2 : You can download from My Google Drive.
+Datasets have the paths, so if you modify the folder structure, it might cause the error.
 
-https://drive.google.com/drive/folders/1lw3G9eMIAXnuOFxeCFdTZQSRPYe0-HCV?usp=sharing
+This repository data can be customizing your programs.
+
+Due to the file size and number, you can download most of data from my Google Drive throuh link.
+
 
