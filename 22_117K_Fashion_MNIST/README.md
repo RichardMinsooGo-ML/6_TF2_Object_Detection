@@ -4,6 +4,7 @@
 
 파일의 크기와 개수가 많아서, 필자가 운영하는 Google Drive 를 통하여 다운로드 받으며 된다.
 
+https://drive.google.com/drive/folders/14Y-6YuEII0qqjgkL7fT5ZJjHYA7Kht5C?usp=sharing
 
 
 ## EN> Fashion MNIST + MNIST, classes = 20
@@ -12,3 +13,4 @@ In this folder, I uploaded the sample of Fashion MNIST + MNIST datasets. Trainin
 
 Due to the several file size, please download from my Google Drive through below link.
 
+https://drive.google.com/drive/folders/14Y-6YuEII0qqjgkL7fT5ZJjHYA7Kht5C?usp=sharing
