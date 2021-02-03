@@ -4,6 +4,7 @@
 
 파일의 크기와 개수가 많아서, 필자가 운영하는 Google Drive 를 통하여 다운로드 받으며 된다.
 
+https://drive.google.com/drive/folders/1G85oq9mwbSmTrMkfwPE1tvZLrQEF553-?usp=sharing
 
 
 ## EN> 
@@ -12,3 +13,4 @@ In this folder, I uploaded the sample of Pascal VOC 2012 datasets. Training set 
 
 Due to the several file size, please download from my Google Drive through below link.
 
+https://drive.google.com/drive/folders/1G85oq9mwbSmTrMkfwPE1tvZLrQEF553-?usp=sharing
