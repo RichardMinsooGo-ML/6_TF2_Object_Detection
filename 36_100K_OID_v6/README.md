@@ -1,23 +1,16 @@
-# Template level 1
+## KR> OID V6 / 30 classes
 
-Add comment for level 1
+해당 폴더에는 약 102,000개 학습의 크기를 가진 OID V6 / 30 classes 데이터셋이 업로드 되어져 있다.
 
-## Template level 2
+파일의 크기와 개수가 많아서, 필자가 운영하는 Google Drive 를 통하여 다운로드 받으며 된다.
 
-Add comment for level 2
+https://drive.google.com/drive/folders/1gKivkbJIWWhNxbSLqpVNOb1Izd8Yz9Yi?usp=sharing
 
-## Template level 2
+## EN> OID V6 / 30 classes
 
-Add comment for level 2
+In this folder, I uploaded the sample of OID V6 / 30 classes datasets. Training set size is around 102,000.
 
+Due to the several file size, please download from my Google Drive through below link.
 
-### Template level 3
-
-Add comment for level 3
-
-
-### Template level 3
-
-Add comment for level 3
-
+https://drive.google.com/drive/folders/1gKivkbJIWWhNxbSLqpVNOb1Izd8Yz9Yi?usp=sharing
 
