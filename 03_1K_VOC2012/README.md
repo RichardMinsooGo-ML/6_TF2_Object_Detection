@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1ry-XgUOmY9jDRt3sJANfgzYq1h-gn3hw?usp=sha
 
 In this folder, I uploaded the sample of Pascal VOC dataset samples. 
 
-Training datset size is 1000.
+Training dataset size is 1000.
 
 Due to the several file size, please download from my Goggle Drive through below link.
 
