@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1XlywUKPInSMr8kdGw8Wk1WZX6FcZR28i?usp=sha
 
 In this folder, I uploaded the sample of MNIST datasets. Training set size is 13700.
 
-Due to the several file size, please download from my Goggle Drive through below link.
+Due to the several file size, please download from my Google Drive through below link.
 
 https://drive.google.com/drive/folders/1XlywUKPInSMr8kdGw8Wk1WZX6FcZR28i?usp=sharing
 
