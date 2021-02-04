@@ -10,6 +10,11 @@ Dataset 들의 위치를 가진 파일들 때문에 폴더의 구조가 변경�
 
 많은 데이터들이 용량이 크고 파일의 숫자가 대부분은 필자가 운영중인 Google Drive 링크를 통하여 다운로드 받으면 된다.
 
+Yolo_V3_from_dir_1, Yolo_V3_from_tf_record, Yolo_V4_from_dir_1, Yolo_V4_from_dir_1 에는 Yolo sample code가 있다.
+
+각 Folder 에서 좀더 정확한 방법을 기술하였다.
+
+
 ## EN>
 
 This repository have datasets for Object Dedection, and also have sample codes.
@@ -22,4 +27,6 @@ This repository data can be customizing your programs.
 
 Due to the file size and number, you can download most of data from my Google Drive throuh link.
 
+Yolo sample codes are in Yolo_V3_from_dir_1, Yolo_V3_from_tf_record, Yolo_V4_from_dir_1, Yolo_V4_from_dir_1 folders.
 
+At each folder, you can find mode detailed explanation.
