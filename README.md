@@ -11,6 +11,12 @@ Dataset 들의 위치를 가진 파일들 때문에 폴더의 구조가 변경�
 
 Yolo_V3_from_dir_1, Yolo_V3_from_tf_record, Yolo_V4_from_dir_1, Yolo_V4_from_dir_2 폴더 에는 sample code들이 있다.
 
+1K : 1000 training set 
+
+14K : 13700 training set
+
+117K : 117000 training set
+
 
 ## EN>
 This repository have datasets for Object Dedection, and also have sample codes.
@@ -24,3 +30,10 @@ This repository data can be customizing your programs.
 Due to the file size and number, you can download most of data from my Google Drive throuh link.
 
 There are sample codes at Yolo_V3_from_dir_1, Yolo_V3_from_tf_record, Yolo_V4_from_dir_1, Yolo_V4_from_dir_2 folders.
+
+1K : 1000 training set 
+
+14K : 13700 training set
+
+117K : 117000 training set
+
