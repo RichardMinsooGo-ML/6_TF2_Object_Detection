@@ -11,11 +11,17 @@ Dataset 들의 위치를 가진 파일들 때문에 폴더의 구조가 변경�
 
 Yolo_V3_from_dir_1, Yolo_V3_from_tf_record, Yolo_V4_from_dir_1, Yolo_V4_from_dir_2 폴더 에는 sample code들이 있다.
 
-1K : 1000 training set 
+### 데이터셋의 크기
 
-14K : 13700 training set
+* 1K : 1000 training set 
+* 14K : 13700 training set
+* 117K : 117000 training set
 
-117K : 117000 training set
+### 객체감지 대이터셋들을 위한 유틸리티 모음
+
+개발하고자하는 dataset들을 커스터마이징 하는데 유용한 툴들 입니다.
+
+https://github.com/RichardMinsooGo-ML/7_TF2_Object_Detection_Utils
 
 
 ## EN>
@@ -31,9 +37,16 @@ Due to the file size and number, you can download most of data from my Google Dr
 
 There are sample codes at Yolo_V3_from_dir_1, Yolo_V3_from_tf_record, Yolo_V4_from_dir_1, Yolo_V4_from_dir_2 folders.
 
-1K : 1000 training set 
+### size of datasets
 
-14K : 13700 training set
+* 1K : 1000 training set 
+* 14K : 13700 training set
+* 117K : 117000 training set
 
-117K : 117000 training set
+### Utils for generation of object detection datasets
+
+At below link, you can fins the useful tools for the customizing of your datasets.
+
+https://github.com/RichardMinsooGo-ML/7_TF2_Object_Detection_Utils
+
 
